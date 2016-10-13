@@ -1,0 +1,1 @@
+docker run -it --cpuset-cpus 0-3 -v c:\sp2013_prereq_logs:c:\Users\ContainerAdiministrator\AppData\Local\Temp -v c:\projects:c:\projects -v c:\sp2013:c:\sp2013 -v c:\sp2013_data:c:\sp2013_data soanni/ndsharepoint:TP5 powershell
