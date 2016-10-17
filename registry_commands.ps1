@@ -1,0 +1,1 @@
+Get-ChildItem -Path "HKLM:\SOFTWARE\Microsoft\Windows Identity Foundation\Setup"
